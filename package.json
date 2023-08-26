@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serato-crater": "^1.0.0"
+    "serato-crater": "^1.0.0",
+    "seratojs": "^3.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
